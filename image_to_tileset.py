@@ -1,8 +1,3 @@
-"""
-Dependencies:
-    * apt install imagemagick
-"""
-
 from PIL import Image
 
 import argparse
