@@ -1,2 +1,5 @@
-# image_to_tile_set
+# Image to Tileset Converter
 Python image to tile set converter.
+
+## Dependencies
+* imagemagick
